@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 💬 Ask me about **SwiftUI**
+- 💬 Ask me about **SwiftUI.**
 
 - 📫 How to reach me **obas1869@gmail.com**
 
