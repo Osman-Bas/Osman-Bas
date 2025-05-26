@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **IOS development**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **SwiftUI**
 
