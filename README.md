@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFG8S25kMFtfQ/profile-displaybackgroundimage-shrink_350_1400/B4DZYBDc29H4Ac-/0/1743774406087?e=1749081600&v=beta&t=-OIYnIYmHRRXcq_x-rDjTCPfx-y-gy8klvruecNQJjQ)
 <h1 align="center">Hi 👋, I'm Osman Baş</h1>
 <h3 align="center">A passionate IOS developer from Türkiye</h3>
 
